@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "name": "Caja de Carton",
+      "material": "cartulina",
+      "price": "200",
+      "stock": "100"
+    },
+    {
+      "id": "2",
+      "name": "Bolsa de Papel",
+      "material": "papel",
+      "price": "25",
+      "stock": "100"
+    },
+    {
+      "id": "3",
+      "name": "Cinta Scotch",
+      "material": "adhesivo",
+      "price": "20",
+      "stock": "100"
+    }
+  ]
+}
